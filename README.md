@@ -8,6 +8,7 @@ All presentations were recorded and will be available on the Stir Trek YouTube C
 
 *Add your sessions here, in alphabetical order by session title*
 
+- [Ignoring Nulls and Five Other Horrible Things Most Developers Do (Michael Meadows)](/talks/ignoring-nulls-and-other-horrible-things-developers-do/README.md)
 - [Improving Data Access with Abstractions (Steve Smith)](/talks/improving-data-access-with-abstractions/SteveSmith-ImprovingDataAccessWithAbstractions.pdf)
 
 
