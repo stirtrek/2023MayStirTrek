@@ -15,6 +15,7 @@ All presentations were recorded and will be available on the Stir Trek YouTube C
 - [Improving Data Access with Abstractions (Steve Smith)](/talks/improving-data-access-with-abstractions/SteveSmith-ImprovingDataAccessWithAbstractions.pdf)
 - [Interactive Notebooks for the Polyglot with Python, .NET, SQL, JS, and more! (Matt Eland)](/talks/PolyglotNotebooks/README.md)
 - [Mystery of the Ever Increasing AWS Bill](/talks/mystery-of-the-ever-increasing-aws-bill/mystery-of-the-ever-increasing-aws-bill.pdf)
+- [The Power of Storytelling: Human Stories in a Digital World (Bekah Hawrot Weigel)](/talks/power-of-storytelling/README.md)
 - [Strategizing Products and Customer Experiences (Debbie Levitt)](/talks/strategizing-products-and-customer-experiences/2023-SPACE-StirTrek.pdf)
 - [Tracking Aircraft with Redis and Software-Defined Radio (Guy Royse)](/talks/tracking-aircraft/README.md)
 
