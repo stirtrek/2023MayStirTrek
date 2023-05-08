@@ -13,6 +13,7 @@ All presentations were recorded and will be available on the Stir Trek YouTube C
 - [ Dev Containers. What are they and why do you need them? (Joe Guadagno)](/talks/dev-containers-what-why/README.md)
 - [Ditch the Media Queries: Modern CSS Replacements for Better Responsive Design (Kathryn Grayson Nanz)](/talks/ditch-media-queries-modern-css/README.md)
 - [Don't Put Your Messages in a Bottle: Implement Messaging Patterns (Eldert Grootenboer)](/talks/dont-put-message-in-bottle/dont-put-message-in-bottle.pdf)
+- [The Hazards of Sitting: An Osteopath’s Approach to Preventing Work-Related Injury. (Michele Lanning)](/talks/hazards-of-sitting/README.md)
 - [Ignoring Nulls and Five Other Horrible Things Most Developers Do (Michael Meadows)](/talks/ignoring-nulls-and-other-horrible-things-developers-do/README.md)
 - [Improving Data Access with Abstractions (Steve Smith)](/talks/improving-data-access-with-abstractions/SteveSmith-ImprovingDataAccessWithAbstractions.pdf)
 - [Interactive Notebooks for the Polyglot with Python, .NET, SQL, JS, and more! (Matt Eland)](/talks/PolyglotNotebooks/README.md)
