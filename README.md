@@ -12,6 +12,7 @@ All presentations were recorded and will be available on the Stir Trek YouTube C
 - [Ignoring Nulls and Five Other Horrible Things Most Developers Do (Michael Meadows)](/talks/ignoring-nulls-and-other-horrible-things-developers-do/README.md)
 - [Improving Data Access with Abstractions (Steve Smith)](/talks/improving-data-access-with-abstractions/SteveSmith-ImprovingDataAccessWithAbstractions.pdf)
 - [Interactive Notebooks for the Polyglot with Python, .NET, SQL, JS, and more! (Matt Eland)](/talks/PolyglotNotebooks/README.md)
+- [Strategizing Products and Customer Experiences (Debbie Levitt)](/talks/strategizing-products-and-customer-experiences/2023-SPACE-StirTrek.pdf)
 
 
 ## Stir Trek 2023 Reviews
