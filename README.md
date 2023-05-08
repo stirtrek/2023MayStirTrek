@@ -8,6 +8,7 @@ All presentations were recorded and will be available on the Stir Trek YouTube C
 
 *Add your sessions here, in alphabetical order by session title*
 
+- [A Deep Dive into Caching with Service Workers (Kat Fairbanks)](/talks/deep-dive-into-caching-with-service-workers/README.md)
 - [Improving Data Access with Abstractions (Steve Smith)](/talks/improving-data-access-with-abstractions/SteveSmith-ImprovingDataAccessWithAbstractions.pdf)
 
 
