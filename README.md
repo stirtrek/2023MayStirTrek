@@ -9,6 +9,7 @@ All presentations were recorded and will be available on the Stir Trek YouTube C
 *Add your sessions here, in alphabetical order by session title*
 
 - [A Deep Dive into Caching with Service Workers (Kat Fairbanks)](/talks/deep-dive-into-caching-with-service-workers/README.md)
+- [ Dev Containers. What are they and why do you need them? (Joe Guadagno)](/talks/dev-containers-what-why/README.md)
 - [Ditch the Media Queries: Modern CSS Replacements for Better Responsive Design (Kathryun Grayson Nanz)](/talks/ditch-media-queries-modern-css/README.md)
 - [Don't Put Your Messages in a Bottle: Implement Messaging Patterns (Eldert Grootenboer)](/talks/dont-put-message-in-bottle/dont-put-message-in-bottle.pdf)
 - [Ignoring Nulls and Five Other Horrible Things Most Developers Do (Michael Meadows)](/talks/ignoring-nulls-and-other-horrible-things-developers-do/README.md)
