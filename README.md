@@ -8,12 +8,15 @@ All presentations were recorded and will be available on the Stir Trek YouTube C
 
 *Add your sessions here, in alphabetical order by session title*
 
+- [Avoiding False Starts with Artificial Intelligence](/talks/avoiding-false-starts-with-ai/README.md)
 - [Building a Design System Mid-Flight](/talks/building-a-design-system-mid-flight/README.md)
 - [Dark UX Patterns (Vitaliy Matiyash)](/talks/dark-ux-patterns/README.md)
 - [A Deep Dive into Caching with Service Workers (Kat Fairbanks)](/talks/deep-dive-into-caching-with-service-workers/README.md)
 - [ Dev Containers. What are they and why do you need them? (Joe Guadagno)](/talks/dev-containers-what-why/README.md)
 - [Ditch the Media Queries: Modern CSS Replacements for Better Responsive Design (Kathryn Grayson Nanz)](/talks/ditch-media-queries-modern-css/README.md)
 - [Don't Put Your Messages in a Bottle: Implement Messaging Patterns (Eldert Grootenboer)](/talks/dont-put-message-in-bottle/dont-put-message-in-bottle.pdf)
+- [Getting Good at Code Reviews (Rhia Dixon)](/talks/code-reviews/README.md)
+- [The Hazards of Sitting: An Osteopath’s Approach to Preventing Work-Related Injury. (Michele Lanning)](/talks/hazards-of-sitting/README.md)
 - [Ignoring Nulls and Five Other Horrible Things Most Developers Do (Michael Meadows)](/talks/ignoring-nulls-and-other-horrible-things-developers-do/README.md)
 - [Improving Data Access with Abstractions (Steve Smith)](/talks/improving-data-access-with-abstractions/SteveSmith-ImprovingDataAccessWithAbstractions.pdf)
 - [Interactive Notebooks for the Polyglot with Python, .NET, SQL, JS, and more! (Matt Eland)](/talks/PolyglotNotebooks/README.md)
@@ -22,7 +25,9 @@ All presentations were recorded and will be available on the Stir Trek YouTube C
 - [No, ChatGPT isn't going to take your job, but it might just help you get things done. (Matt Williams)](/talks/chatgpt/README.md)
 - [The Power of Storytelling: Human Stories in a Digital World (Bekah Hawrot Weigel)](/talks/power-of-storytelling/README.md)
 - [Strategizing Products and Customer Experiences (Debbie Levitt)](/talks/strategizing-products-and-customer-experiences/2023-SPACE-StirTrek.pdf)
+- [Strongly-Typed CSS with Vanilla-extract (Georgia Loper)](/talks/strongly-typed-css/README.md)
 - [Tracking Aircraft with Redis and Software-Defined Radio (Guy Royse)](/talks/tracking-aircraft/README.md)
+- [Word Smatter: Exploring Semantics, Testers, and Problems (Damian Dynadinos)](/talks/word-smatter/README.md)
 
 
 ## Stir Trek 2023 Reviews
