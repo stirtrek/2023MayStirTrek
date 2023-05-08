@@ -10,11 +10,12 @@ All presentations were recorded and will be available on the Stir Trek YouTube C
 
 - [A Deep Dive into Caching with Service Workers (Kat Fairbanks)](/talks/deep-dive-into-caching-with-service-workers/README.md)
 - [ Dev Containers. What are they and why do you need them? (Joe Guadagno)](/talks/dev-containers-what-why/README.md)
-- [Ditch the Media Queries: Modern CSS Replacements for Better Responsive Design (Kathryun Grayson Nanz)](/talks/ditch-media-queries-modern-css/README.md)
+- [Ditch the Media Queries: Modern CSS Replacements for Better Responsive Design (Kathryn Grayson Nanz)](/talks/ditch-media-queries-modern-css/README.md)
 - [Don't Put Your Messages in a Bottle: Implement Messaging Patterns (Eldert Grootenboer)](/talks/dont-put-message-in-bottle/dont-put-message-in-bottle.pdf)
 - [Ignoring Nulls and Five Other Horrible Things Most Developers Do (Michael Meadows)](/talks/ignoring-nulls-and-other-horrible-things-developers-do/README.md)
 - [Improving Data Access with Abstractions (Steve Smith)](/talks/improving-data-access-with-abstractions/SteveSmith-ImprovingDataAccessWithAbstractions.pdf)
 - [Interactive Notebooks for the Polyglot with Python, .NET, SQL, JS, and more! (Matt Eland)](/talks/PolyglotNotebooks/README.md)
+- [Maintaining Accessibility in Complicated Components](/talks/maintaining-accessibility/README.md)
 - [Mystery of the Ever Increasing AWS Bill (Tim LeMaster)](/talks/mystery-of-the-ever-increasing-aws-bill/mystery-of-the-ever-increasing-aws-bill.pdf)
 - [The Power of Storytelling: Human Stories in a Digital World (Bekah Hawrot Weigel)](/talks/power-of-storytelling/README.md)
 - [Strategizing Products and Customer Experiences (Debbie Levitt)](/talks/strategizing-products-and-customer-experiences/2023-SPACE-StirTrek.pdf)
