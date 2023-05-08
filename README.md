@@ -25,6 +25,7 @@ All presentations were recorded and will be available on the Stir Trek YouTube C
 - [Strategizing Products and Customer Experiences (Debbie Levitt)](/talks/strategizing-products-and-customer-experiences/2023-SPACE-StirTrek.pdf)
 - [Strongly-Typed CSS with Vanilla-extract (Georgia Loper)](/talks/strongly-typed-css/README.md)
 - [Tracking Aircraft with Redis and Software-Defined Radio (Guy Royse)](/talks/tracking-aircraft/README.md)
+- [Word Smatter: Exploring Semantics, Testers, and Problems (Damian Dynadinos)](/talks/word-smatter/README.md)
 
 
 ## Stir Trek 2023 Reviews
