@@ -21,6 +21,7 @@ All presentations were recorded and will be available on the Stir Trek YouTube C
 - [No, ChatGPT isn't going to take your job, but it might just help you get things done. (Matt Williams)](/talks/chatgpt/README.md)
 - [The Power of Storytelling: Human Stories in a Digital World (Bekah Hawrot Weigel)](/talks/power-of-storytelling/README.md)
 - [Strategizing Products and Customer Experiences (Debbie Levitt)](/talks/strategizing-products-and-customer-experiences/2023-SPACE-StirTrek.pdf)
+- [Strongly-Typed CSS with Vanilla-extract (Georgia Loper)](/talks/strongly-typed-css/README.md)
 - [Tracking Aircraft with Redis and Software-Defined Radio (Guy Royse)](/talks/tracking-aircraft/README.md)
 
 
