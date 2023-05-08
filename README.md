@@ -9,6 +9,7 @@ All presentations were recorded and will be available on the Stir Trek YouTube C
 *Add your sessions here, in alphabetical order by session title*
 
 - [Improving Data Access with Abstractions (Steve Smith)](/talks/improving-data-access-with-abstractions/SteveSmith-ImprovingDataAccessWithAbstractions.pdf)
+- [Interactive Notebooks for the Polyglot with Python, .NET, SQL, JS, and more! (Matt Eland)](/talks/PolyglotNotebooks/README.md)
 
 
 ## Stir Trek 2023 Reviews
