@@ -23,6 +23,7 @@ All presentations were recorded and will be available on the Stir Trek YouTube C
 - [Maintaining Accessibility in Complicated Components (Mark Noonan)](/talks/maintaining-accessibility/README.md)
 - [Mystery of the Ever Increasing AWS Bill (Tim LeMaster)](/talks/mystery-of-the-ever-increasing-aws-bill/mystery-of-the-ever-increasing-aws-bill.pdf)
 - [No, ChatGPT isn't going to take your job, but it might just help you get things done. (Matt Williams)](/talks/chatgpt/README.md)
+- [Optimizing Application Performance (Jason Turan)](/talks/optimizing-application-performance/README.md)
 - [The Power of Storytelling: Human Stories in a Digital World (Bekah Hawrot Weigel)](/talks/power-of-storytelling/README.md)
 - [Strategizing Products and Customer Experiences (Debbie Levitt)](/talks/strategizing-products-and-customer-experiences/2023-SPACE-StirTrek.pdf)
 - [Strongly-Typed CSS with Vanilla-extract (Georgia Loper)](/talks/strongly-typed-css/README.md)
