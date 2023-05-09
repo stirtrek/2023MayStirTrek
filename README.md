@@ -8,8 +8,8 @@ All presentations were recorded and will be available on the Stir Trek YouTube C
 
 *Add your sessions here, in alphabetical order by session title*
 
-- [Avoiding False Starts with Artificial Intelligence](/talks/avoiding-false-starts-with-ai/README.md)
-- [Building a Design System Mid-Flight](/talks/building-a-design-system-mid-flight/README.md)
+- [Avoiding False Starts with Artificial Intelligence (Jordan Thayer and Robert Herbig)](/talks/avoiding-false-starts-with-ai/README.md)
+- [Building a Design System Mid-Flight (Josh Goldberg)](/talks/building-a-design-system-mid-flight/README.md)
 - [Dark UX Patterns (Vitaliy Matiyash)](/talks/dark-ux-patterns/README.md)
 - [A Deep Dive into Caching with Service Workers (Kat Fairbanks)](/talks/deep-dive-into-caching-with-service-workers/README.md)
 - [ Dev Containers. What are they and why do you need them? (Joe Guadagno)](/talks/dev-containers-what-why/README.md)
