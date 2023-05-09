@@ -22,6 +22,7 @@ All presentations were recorded and will be available on the Stir Trek YouTube C
 - [Improving Data Access with Abstractions (Steve Smith)](/talks/improving-data-access-with-abstractions/SteveSmith-ImprovingDataAccessWithAbstractions.pdf)
 - [Interactive Notebooks for the Polyglot with Python, .NET, SQL, JS, and more! (Matt Eland)](/talks/PolyglotNotebooks/README.md)
 - [Maintaining Accessibility in Complicated Components (Mark Noonan)](/talks/maintaining-accessibility/README.md)
+- [Messaging, Queueing, and Eventing with Azure De-Mystified (Brian Gorman)](/talks/azure-messaging/README.md)
 - [Mystery of the Ever Increasing AWS Bill (Tim LeMaster)](/talks/mystery-of-the-ever-increasing-aws-bill/mystery-of-the-ever-increasing-aws-bill.pdf)
 - [No, ChatGPT isn't going to take your job, but it might just help you get things done. (Matt Williams)](/talks/chatgpt/README.md)
 - [Optimizing Application Performance (Jason Turan)](/talks/optimizing-application-performance/README.md)
