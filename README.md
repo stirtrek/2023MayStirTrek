@@ -28,6 +28,7 @@ All presentations were recorded and will be available on the Stir Trek YouTube C
 - [Optimizing Application Performance (Jason Turan)](/talks/optimizing-application-performance/README.md)
 - [The Power of Storytelling: Human Stories in a Digital World (Bekah Hawrot Weigel)](/talks/power-of-storytelling/README.md)
 - [Practical Auth(entication|orization) for Developers (Seth Petry-Johnson)](/talks/practical-auth/README.md)
+- [React Native and Expo CLI: Developing and Testing Your First App (Brian Riazzi)](/talks/react-native-expo-cli/README.md)
 - [Strategizing Products and Customer Experiences (Debbie Levitt)](/talks/strategizing-products-and-customer-experiences/2023-SPACE-StirTrek.pdf)
 - [Strongly-Typed CSS with Vanilla-extract (Georgia Loper)](/talks/strongly-typed-css/README.md)
 - [Tracking Aircraft with Redis and Software-Defined Radio (Guy Royse)](/talks/tracking-aircraft/README.md)
