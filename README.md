@@ -2,7 +2,7 @@
 
 Slides and resources from the 2023 May Stir Trek: Guardians of the Galaxy vol 3 edition.
 
-All presentations were recorded and will be available on the Stir Trek YouTube Channel (soon).
+All presentations were recorded and will be available on the [Stir Trek YouTube Channel](https://youtube.com/stirtrek) (soon).
 
 ## Sessions by Title
 
