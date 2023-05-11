@@ -17,6 +17,7 @@ All presentations were recorded and will be available on the Stir Trek YouTube C
 - [Ditch heavy JS and KISS your frontend again with HTML over-the-wire (Alex Finnarn)](/talks/ditch-heavy-js/README.md)
 - [Ditch the Media Queries: Modern CSS Replacements for Better Responsive Design (Kathryn Grayson Nanz)](/talks/ditch-media-queries-modern-css/README.md)
 - [Don't Put Your Messages in a Bottle: Implement Messaging Patterns (Eldert Grootenboer)](/talks/dont-put-message-in-bottle/dont-put-message-in-bottle.pdf)
+- [Foster a Culture of Learning Through Observability (Brooke Sargent)](/talks/foster-a-culture-of-learning-through-observability/foster-a-culture-of-learning-through-observability.pdf)
 - [Getting Good at Code Reviews (Rhia Dixon)](/talks/code-reviews/README.md)
 - [The Hazards of Sitting: An Osteopath’s Approach to Preventing Work-Related Injury. (Michele Lanning)](/talks/hazards-of-sitting/README.md)
 - [Ignoring Nulls and Five Other Horrible Things Most Developers Do (Michael Meadows)](/talks/ignoring-nulls-and-other-horrible-things-developers-do/README.md)
