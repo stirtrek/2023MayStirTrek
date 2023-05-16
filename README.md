@@ -11,6 +11,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 - [Avoiding False Starts with Artificial Intelligence (Jordan Thayer and Robert Herbig)](/talks/avoiding-false-starts-with-ai/README.md)
 - [Building a Design System In-Flight (Josh Goldberg)](/talks/building-a-design-system-mid-flight/README.md)
 - [Building Ingress - From Concept to Connection (Scott McAllister)](/talks/building-ingress-from-concept-to-connection/README.md)
+- [Definition of Done: Fun - Building Code You Can Play (Krista Campbell)](/talks/code-you-can-play/code-you-can-play-kcampbell-ST2023.pdf)
 - [Dark UX Patterns (Vitaliy Matiyash)](/talks/dark-ux-patterns/README.md)
 - [A Deep Dive into Caching with Service Workers (Kat Fairbanks)](/talks/deep-dive-into-caching-with-service-workers/README.md)
 - [Dev Containers. What are they and why do you need them? (Joe Guadagno)](/talks/dev-containers-what-why/README.md)
