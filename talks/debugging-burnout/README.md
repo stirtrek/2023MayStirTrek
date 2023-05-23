@@ -1,3 +1,3 @@
 # Debugging Burnout 
 
-- [Slides](/Debugging-Burnout-Stir-Trek-2023.pdf)
+- [Slides](./Debugging-Burnout-Stir-Trek-2023.pdf)
