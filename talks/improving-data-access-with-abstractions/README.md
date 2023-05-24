@@ -1,5 +1,8 @@
 # Improving Data Access with Abstractions
 
+- [Slides](SteveSmith-ImprovingDataAccessWithAbstractions.pdf)
+- [Code Repo](https://github.com/ardalis/DotNetDataAccessTour)
+
 ## Steve Smith
 
 - [Blog (ardalis.com)](https://ardalis.com)
