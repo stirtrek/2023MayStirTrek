@@ -22,7 +22,7 @@ All presentations were recorded and are available on the [Stir Trek YouTube Chan
 - [Getting Good at Code Reviews (Rhia Dixon)](/talks/code-reviews/README.md)
 - [The Hazards of Sitting: An Osteopath’s Approach to Preventing Work-Related Injury. (Michele Lanning)](/talks/hazards-of-sitting/README.md)
 - [Ignoring Nulls and Five Other Horrible Things Most Developers Do (Michael Meadows)](/talks/ignoring-nulls-and-other-horrible-things-developers-do/README.md)
-- [Improving Data Access with Abstractions (Steve Smith)](/talks/improving-data-access-with-abstractions/SteveSmith-ImprovingDataAccessWithAbstractions.pdf)
+- [Improving Data Access with Abstractions (Steve Smith)](/talks/improving-data-access-with-abstractions/README.md)
 - [Interactive Notebooks for the Polyglot with Python, .NET, SQL, JS, and more! (Matt Eland)](/talks/PolyglotNotebooks/README.md)
 - [Maintaining Accessibility in Complicated Components (Mark Noonan)](/talks/maintaining-accessibility/README.md)
 - [Messaging, Queueing, and Eventing with Azure De-Mystified (Brian Gorman)](/talks/azure-messaging/README.md)
