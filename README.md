@@ -42,7 +42,7 @@ All presentations were recorded and are available on the [Stir Trek YouTube Chan
 
 ## Stir Trek 2023 Reviews
 
-(link to your blog post etc here)
+* [Stir Trek 2023 Highlights by Kyle McMaster](https://www.kylemcmaster.com/blog/stir-trek-2023-highlights)
 
 ## Speaker Instructions
 
